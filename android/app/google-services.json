@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046011904181",
+    "firebase_url": "https://asistentemedicov2-jvmf-default-rtdb.firebaseio.com",
+    "project_id": "asistentemedicov2-jvmf",
+    "storage_bucket": "asistentemedicov2-jvmf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046011904181:android:ead99f57c67979bfae7efc",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046011904181-56pvkm35nhfteo4fe2le1sr5tl0d0sf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpAVGDN7gREfV85EjjKcdYlHyspwzyiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046011904181-56pvkm35nhfteo4fe2le1sr5tl0d0sf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
